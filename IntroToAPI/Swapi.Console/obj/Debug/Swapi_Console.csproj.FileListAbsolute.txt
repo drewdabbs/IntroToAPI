@@ -1,0 +1,11 @@
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Swapi.Console.exe.config
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Swapi.Console.exe
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Swapi.Console.pdb
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi_Console.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi.Console.exe
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi.Console.pdb
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi_Console.csproj.AssemblyReference.cache

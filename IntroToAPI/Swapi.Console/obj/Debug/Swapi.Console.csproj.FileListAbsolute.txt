@@ -1,0 +1,7 @@
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Swapi.Console.exe.config
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Swapi.Console.exe
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\bin\Debug\Swapi.Console.pdb
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi.Console.csproj.AssemblyReference.cache
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi.Console.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi.Console.exe
+C:\Users\Drew\Google Drive\ElevenFiftyProjects\2_Blue_Badge\Intro\IntroToAPI\Swapi.Console\obj\Debug\Swapi.Console.pdb
