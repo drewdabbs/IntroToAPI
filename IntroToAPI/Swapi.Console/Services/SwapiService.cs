@@ -22,7 +22,7 @@ namespace Swapi_Console
             return null;
         }
 
-        public async Task<T> GetAsAsync<T>(string url)
+        public async Task<T> GetAsAsync<T>(string url) where T: class
         {
             HttpResponseMessage response = await _httpClient.GetAsync(url);
 
@@ -30,7 +30,8 @@ namespace Swapi_Console
             {
                 return await response.Content.ReadAsAsync<T>();
             }
-            return default;
+            //return default;
+            return null;
         }
     }
 

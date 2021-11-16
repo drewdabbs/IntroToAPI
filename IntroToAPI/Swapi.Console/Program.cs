@@ -19,6 +19,17 @@ namespace Swapi_Console
             Person personResponse = response.Content.ReadAsAsync<Person>().Result;
             Console.WriteLine(personResponse.Name);
             Console.WriteLine(personResponse.Created);
+            
+
+            SwapiService service = new SwapiService();
+            Person person = service.GetPersonAsync("https://swapi.dev/api/people/3/").Result;
+            Console.WriteLine(person.Name);
+            Console.WriteLine(person.Height);
+
+            Person samePerson = service.GetAsAsync<Person>("https://swapi.dev/api/people/3/").Result;
+            Console.WriteLine(samePerson.Name);
+            Console.WriteLine(samePerson.Height);
+
             Console.ReadKey();
         }
     }
